@@ -1,0 +1,35 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+  padding-left: 45px;
+}
+.course-heading {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 35px;
+}
+.unorder-list {
+  display: flex;
+  flex-wrap: wrap;
+  text-decoration: none;
+}
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.button {
+  background-color: #4656a1;
+  padding: 14px;
+  border-radius: 8px;
+  color: #ffffff;
+  border: 0;
+}
+.loader-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
